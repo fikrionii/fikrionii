@@ -1,9 +1,16 @@
-## 🚀 Hi! I'm Alfikri Ramadhan and I just started my journey in Data!
+# 🚀 Hi! I'm Fikri!
 
-- **Data Science Graduate Student** from Rakamin Academy ([certificate](https://www.linkedin.com/feed/update/urn:li:activity:6925761531095773184/))
-- Google Data Analytics Certified ([certificate](https://www.coursera.org/account/accomplishments/professional-cert/V8RWUXZ28ZFW))
-- Currently learning and creating project in Data Analytics and Machine Learning
-- Let's connect!
+My name is Alfikri Ramadhan, an aspiring Data Analyst and Business Intelligence.
+
+## Projects
+
+## Certification
+
+- Google Data Analytics Certification ([link](https://www.coursera.org/account/accomplishments/professional-cert/V8RWUXZ28ZFW))
+- Rakamin Academy Data Science Gradute ([link](https://drive.google.com/file/d/1YiQMr5Ihxi7luV9BSAZnQakYqbHLgUj2/view?usp=sharing))
+
+## Let's Connect
+
   - 📧 alfikri12@gmail.com
   - 🤝 [LinkedIn](https://www.linkedin.com/in/alfikri-ramadhan/)
 

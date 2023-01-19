@@ -7,6 +7,7 @@ My name is Alfikri Ramadhan, an aspiring Data Analyst and Business Intelligence.
 - [E-Commerce Database Analysis with SQL](https://github.com/fikrionii/eCommerce-Database-Analysis-with-SQL)
 - [Cyclistic: Bike Sharing Analysis](https://github.com/fikrionii/Cyclistic-Bike-Sharing-Analysis) (Google Data Analytics Capstone Project)
 - [Data Cleaning with Python](https://github.com/fikrionii/Data-Cleaning-U.S-Census-Data)
+- [USA Labor Statistics Dashboard with Excel](https://github.com/fikrionii/USA-Labor-Statistics-Dashboard)
 
 ## ⚡ Core Competencies
 - Tools: Excel, SQL, Tableau, Google Data Studio, Python

@@ -7,6 +7,7 @@ My name is Alfikri Ramadhan, an aspiring Data Analyst and Business Intelligence.
 - [E-Commerce Database Analysis with SQL](https://github.com/fikrionii/eCommerce-Database-Analysis-with-SQL)
 - [Cyclistic: Bike Sharing Analysis](https://github.com/fikrionii/Cyclistic-Bike-Sharing-Analysis) (Google Data Analytics Capstone Project)
 - [Analysis of Master's Business School Graduates](https://github.com/fikrionii/Analysis-of-Master-s-Business-School-Graduates-Statistics-with-Excel-) (Statistics with Excel)
+- [Maven Market Sales Dashboard](https://github.com/fikrionii/Maven-Market-Sales-Dashboard) (Dashboard with Power BI)
 - [Data Cleaning with Python](https://github.com/fikrionii/Data-Cleaning-U.S-Census-Data)
 - [USA Labor Statistics Dashboard with Excel](https://github.com/fikrionii/USA-Labor-Statistics-Dashboard)
 

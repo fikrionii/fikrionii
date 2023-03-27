@@ -12,7 +12,7 @@ My name is Alfikri Ramadhan, an aspiring Data Analyst and Business Intelligence.
 - [USA Labor Statistics Dashboard with Excel](https://github.com/fikrionii/USA-Labor-Statistics-Dashboard)
 
 ## ⚡ Core Competencies
-- Tools: Excel, SQL, Tableau, Google Data Studio, Python
+- Tools: Excel, SQL, Power BI, Tableau, Google Data Studio, Python
 - Skills: Data Cleaning, Data Visualization, Data Analysis, Relational Database
 
 ## 📑 Certification
@@ -21,6 +21,7 @@ My name is Alfikri Ramadhan, an aspiring Data Analyst and Business Intelligence.
 - Rakamin Academy Data Science Bootcamp ([link](https://drive.google.com/file/d/1YiQMr5Ihxi7luV9BSAZnQakYqbHLgUj2/view?usp=sharing))
 - Advanced Excel Formulas and Functions ([link](https://www.udemy.com/certificate/UC-9deae531-f379-4584-8e4d-fd59019b5da5/))
 - Essential Statistics for Data Analysis ([link](https://www.udemy.com/certificate/UC-1da416c5-79ee-42a6-aa7c-21230ae0647d/))
+- Power BI for Business Intelligence ([link](https://www.udemy.com/certificate/UC-30dac21a-04e3-4369-b261-41fcfa33c6e3/))
 - Tableau for Data Science ([link](https://www.udemy.com/certificate/UC-597c6437-1d29-4ae4-9054-d02f1d558e20/))
 
 ## 🌐 Let's Connect

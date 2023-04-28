@@ -20,6 +20,7 @@ My name is Alfikri Ramadhan, an aspiring Data Analyst and Business Intelligence.
 - Google Data Analytics Certification ([link](https://www.coursera.org/account/accomplishments/professional-cert/V8RWUXZ28ZFW))
 - Rakamin Academy Data Science Bootcamp ([link](https://drive.google.com/file/d/1YiQMr5Ihxi7luV9BSAZnQakYqbHLgUj2/view?usp=sharing))
 - Advanced Excel Formulas and Functions ([link](https://www.udemy.com/certificate/UC-9deae531-f379-4584-8e4d-fd59019b5da5/))
+- SQL for Data Analysis and Business Intelligence ([link](https://www.udemy.com/certificate/UC-d98645aa-7ea0-4f6f-b6e6-5b3b6cde0086/))
 - Essential Statistics for Data Analysis ([link](https://www.udemy.com/certificate/UC-1da416c5-79ee-42a6-aa7c-21230ae0647d/))
 - Power BI for Business Intelligence ([link](https://www.udemy.com/certificate/UC-30dac21a-04e3-4369-b261-41fcfa33c6e3/))
 - Tableau for Data Science ([link](https://www.udemy.com/certificate/UC-597c6437-1d29-4ae4-9054-d02f1d558e20/))

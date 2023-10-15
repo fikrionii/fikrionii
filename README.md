@@ -4,7 +4,7 @@ My name is Alfikri Ramadhan, an aspiring Data Analyst and Business Intelligence.
 
 ## 🏢 Projects
 
-- [Capital Bikeshare Analysis](https://github.com/fikrionii/Dicoding-Bike-Sharing/tree/main)(+ Dashboard with Python and Streamlit)
+- [Capital Bikeshare Analysis](https://github.com/fikrionii/Dicoding-Bike-Sharing/tree/main) (Analysis and Dashboard with Python and Streamlit)
 - [E-Commerce Database Analysis with SQL](https://github.com/fikrionii/eCommerce-Database-Analysis-with-SQL)
 - [Cyclistic: Bike Sharing Analysis](https://github.com/fikrionii/Cyclistic-Bike-Sharing-Analysis) (Google Data Analytics Capstone Project)
 - [Analysis of Master's Business School Graduates](https://github.com/fikrionii/Analysis-of-Master-s-Business-School-Graduates-Statistics-with-Excel-) (Statistics with Excel)
